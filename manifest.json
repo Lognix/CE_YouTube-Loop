@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "YouLoop",
+  "version": "0.0.1",
+  "description": "YouLoop is a handy extension for looping YouTube videos! Select a start and end time, and the video will repeat within that range. Perfect for language learning, practicing songs, analyzing movie scenes, and much more.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/64.png",
+    "128": "icons/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.youtube.de/*",
+        "*://*.youtube.fr/*",
+        "*://*.youtube.ch/*",
+        "*://*.youtube.co.uk/*",
+        "*://*.youtube.co.jp/*",
+        "*://*.youtube.es/*",
+        "*://*.youtube.it/*",
+        "*://*.youtube.nl/*",
+        "*://*.youtube.pl/*",
+        "*://*.youtube.br/*"
+      ],
+      "css": [
+        "styles/set.ext.styles.css"
+      ],
+      "js": [
+        "scripts/set.ext.js"
+      ]
+    }
+  ]
+}
