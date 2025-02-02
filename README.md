@@ -8,7 +8,7 @@
 - И многого другого!
 
 ## Установка
-1. **Скачать код**: [CE_YouTube-Loop](https://github.com/Lognix/CE_YouTube-Loop) 
+1. **Скачать код** (.zip): [CE_YouTube-Loop](https://github.com/Lognix/CE_YouTube-Loop) и распаковать 
 2. **Открыть Chrome** и перейти в `chrome://extensions/`
 3. **Включить режим разработчика** (справа сверху)
 4. **Нажать "Загрузить распакованное"** и выбрать папку с расширением
