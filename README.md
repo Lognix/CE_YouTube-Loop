@@ -19,14 +19,14 @@
 ## Как использовать
 1. Откройте YouTube и выберите видео 
 2. В панели управления видео нажмите кнопку **"Set Loop"**
-   ![](https://github.com/user-attachments/assets/d8c78536-84c0-4569-829a-fe2447751761)
+   - ![](https://github.com/user-attachments/assets/d8c78536-84c0-4569-829a-fe2447751761)
 4. После нажатия зафиксируется время начала, нажмите еще раз для фиксации времени конца
-   ![](https://github.com/user-attachments/assets/99826489-6815-46fb-8716-23ad8ec7a20c)
+   - ![](https://github.com/user-attachments/assets/99826489-6815-46fb-8716-23ad8ec7a20c)
 6. После установки времени нажмите еще раз
-   ![](https://github.com/user-attachments/assets/8d56bec9-7a85-4c93-864d-085e8fb1e13b)
+   - ![](https://github.com/user-attachments/assets/8d56bec9-7a85-4c93-864d-085e8fb1e13b)
 8. Наслаждайтесь повторением выбранного фрагмента!
 9. Для отмены, нажмите кнопку **"Reset"**
-   ![](https://github.com/user-attachments/assets/e744cb02-8ed0-40f3-b4c2-faf2514ee02e)
+   - ![](https://github.com/user-attachments/assets/e744cb02-8ed0-40f3-b4c2-faf2514ee02e)
 
 ## Функции
 - Простое управление через кнопку **Set Loop** и **Reset** в плеере YouTube
